@@ -35,5 +35,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # files
 src/latihan.ts
+src/index.ts
 src/libs/math.ts
 
