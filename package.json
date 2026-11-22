@@ -5,6 +5,9 @@
   "private": true,
   "scripts": {
     "dev": "bun run /src/index.ts",
+    "task1": "bun run /src/task-01.ts",
+    "task2": "bun run /src/task-02.ts",
+    "task3": "bun run /src/task-03.ts",
     "typecheck": "bun check"
   },
   "devDependencies": {
